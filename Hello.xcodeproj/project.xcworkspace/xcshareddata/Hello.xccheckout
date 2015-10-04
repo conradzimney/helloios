@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>08FE8888-E3B0-4351-AAD8-2EEE9522E5E9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Hello</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DF806907738E3A52688655477FCF2872BD87F6AB</key>
+		<string>https://github.com/conradzimney/Hello-World-Swift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Hello.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DF806907738E3A52688655477FCF2872BD87F6AB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/conradzimney/Hello-World-Swift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DF806907738E3A52688655477FCF2872BD87F6AB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DF806907738E3A52688655477FCF2872BD87F6AB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Hello-World-Swift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
